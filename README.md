@@ -1,4 +1,4 @@
-## HI ther, I'm Fin 👋  
+## Hi there, I'm Fin 👋  
 Data professional based in the UK, working across machine learning, analytics, and data strategy in finance.
 
 I build ML models in Python and deliver insights using tools like Power BI, Tableau, KNIME, and SQL.  
